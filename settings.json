@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "MGXVASHU1-NQyd.aternos.me",
-    "port": 21517,
+    "port": "21517",
     "version": "",
     "try-creative": false
   },
